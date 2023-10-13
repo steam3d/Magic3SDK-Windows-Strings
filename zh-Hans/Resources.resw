@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>输入快捷键</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>包含 Win、Shift、Alt 或 Ctrl 键</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>清除快捷键</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>关闭</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>开机启动已被组策略停用</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>在应用程序页面上打开Windows设置，转到“启动”并启用«{0}».</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>转到启动</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>手动禁用启动</value>
+  </data>
+  <data name="LanguageCombobox_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>使用系统语言</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>通过重新启动应用程序来使更改生效。</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>需要重新启动</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>重新启动</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>启动项被组策略禁用，或者此设备不支持。</value>
+  </data>
 </root>
