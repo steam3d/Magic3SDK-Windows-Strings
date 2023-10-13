@@ -1,0 +1,1 @@
+# Magic3SDK-Windows-Strings
