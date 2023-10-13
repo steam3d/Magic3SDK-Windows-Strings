@@ -151,7 +151,7 @@
     <value>Use system language</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.Content" xml:space="preserve">
-    <value>Restart application to apply changes</value>
+    <value>Restart application to apply changes.</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.Title" xml:space="preserve">
     <value>Restart required</value>
