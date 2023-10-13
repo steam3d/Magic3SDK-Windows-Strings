@@ -48,4 +48,40 @@
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
     <value>Введите сочетание клавиш</value>
   </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Автозагрузка отключена групповой политикой или не поддерживается на данном устройстве.</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Автозагрузка отключена групповой политикой</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Откройте настройки Windows на странице приложения, перейдите в «Автозагрузка» и включите «{0}».</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Перейти к Автозагрузке</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Автозагрузка отключена вручную</value>
+  </data>
+  <data name="LanguageCombobox_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>Использовать язык системы</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Перезапустите приложение, чтобы применить изменения</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>Требуется перезапуск</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Отмена</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Перезапустить</value>
+  </data>
 </root>
