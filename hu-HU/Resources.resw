@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -58,4 +58,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
+    <value>Írjon be egy gyorsbillentyűt</value>
+  </data>
+  <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Tartalmazza a Win, Shift, Alt vagy Ctrl billentyűket</value>
+  </data>
+  <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
+    <value>Távolítsa el a gyorsbillentyűt</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
+    <value>Bezárás</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
+    <value>Indítás letiltva csoportházirend, vagy nem támogatott ezen az eszközön.</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.CloseButtonText" xml:space="preserve">
+    <value>Mégse</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.PrimaryButtonText" xml:space="preserve">
+    <value>Menjen az Indításra</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.Title" xml:space="preserve">
+    <value>Az indítás manuálisan letiltva</value>
+  </data>
+  <data name="LanguageCombobox_Item_SystemLanguage.Text" xml:space="preserve">
+    <value>Rendszerbeállítás használata</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.Content" xml:space="preserve">
+    <value>Indítsa újra az alkalmazást a változtatások érvényesítéhez.</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
+    <value>Mégse</value>
+  </data>
+  <data name="Language_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
+    <value>Újrakezd</value>
+  </data>
 </root>
