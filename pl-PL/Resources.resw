@@ -59,13 +59,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="HotkeyBox_Input.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Uwzględnij klawisze Win, Shift, Alt i Ctrl</value>
+    <value>Uwzględniając klawisze Win, Shift, Alt bądź Ctrl</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
     <value>Usuń skrót klawiszowy</value>
   </data>
   <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.CloseButtonText" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Zamknąć</value>
   </data>
   <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
     <value>Uruchamianie wyłączone przez zasady grupy</value>
