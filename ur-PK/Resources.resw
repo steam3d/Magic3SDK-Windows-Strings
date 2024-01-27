@@ -92,7 +92,7 @@
     <value>سسٹم کی زبان استعمال کریں</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.Content" xml:space="preserve">
-    <value>تبدیلیاں لاگو کرنے کے لیے درخواست کو دوبارہ شروع کریں۔</value>
+    <value>اپلائی کے لیے درخواست دوبارہ شروع کریں۔</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>منسوخ کریں</value>
