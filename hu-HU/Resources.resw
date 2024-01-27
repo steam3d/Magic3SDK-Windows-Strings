@@ -86,12 +86,18 @@
     <value>Rendszerbeállítás használata</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.Content" xml:space="preserve">
-    <value>Indítsa újra az alkalmazást a változtatások érvényesítéhez.</value>
+    <value>Indítsa újra az alkalmazást a módosítások alkalmazásához.</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.CloseButtonText" xml:space="preserve">
     <value>Mégse</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
     <value>Újrakezd</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Title" xml:space="preserve">
+    <value>Indítás letiltva házirend által</value>
+  </data>
+  <data name="StartupToggleSwitch_ContentDialog_DisabledByUser.Content" xml:space="preserve">
+    <value>Nyissa meg a Windows beállításait az Alkalmazás oldalon, menjen az "Indítás" menüpontra, és engedélyezze a "{0}" opciót.</value>
   </data>
 </root>
