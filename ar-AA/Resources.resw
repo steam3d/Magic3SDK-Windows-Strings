@@ -101,6 +101,6 @@
     <value>إلغاء</value>
   </data>
   <data name="Language_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
-    <value>إعادة تشغيل</value>
+    <value>إعادة التشغيل</value>
   </data>
 </root>
