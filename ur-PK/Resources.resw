@@ -100,4 +100,7 @@
   <data name="Language_ContentDialog_RestartRequired.PrimaryButtonText" xml:space="preserve">
     <value>دوبارہ شروع کریں</value>
   </data>
+  <data name="Language_ContentDialog_RestartRequired.Title" xml:space="preserve">
+    <value>دوبارہ شروع کرنے کی ضرورت ہے</value>
+  </data>
 </root>
