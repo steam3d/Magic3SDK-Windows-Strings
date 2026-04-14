@@ -77,13 +77,13 @@
     <value>Vai alla sezione Avvio</value>
   </data>
   <data name="HotkeyBox_Input.PlaceholderText" xml:space="preserve">
-    <value>Inserisci un hotkey</value>
+    <value>Digita scorciatoia da tastiera</value>
   </data>
   <data name="HotkeyBox_Button_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value>Rimuovi hotkey</value>
+    <value>Rimuovi scorciatoia da tastiera</value>
   </data>
   <data name="StartupToggleSwitch_ContentDialog_DisabledByPolicy.Content" xml:space="preserve">
-    <value>Avvio disabilitato dai criteri di gruppo, o non supportato su questo dispositivo.</value>
+    <value>Avvio disabilitato dai criteri di gruppo o non supportato su questo dispositivo.</value>
   </data>
   <data name="LanguageCombobox_Item_SystemLanguage.Text" xml:space="preserve">
     <value>Usa lingua di sistema</value>
